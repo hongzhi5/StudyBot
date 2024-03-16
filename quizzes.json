@@ -1,0 +1,282 @@
+[
+    {
+        "question": "Which data structure is FIFO?",
+        "options": ["Stack", "Queue", "Array", "Tree"],
+        "answer": 1
+    },
+    {
+        "question": "What does the 'D' in RAID stand for in terms of computer storage?",
+        "options": ["Disk", "Data", "Drive", "Distributed"],
+        "answer": 1
+    },
+    {
+        "question": "In computer networking, what does TCP stand for?",
+        "options": ["Transmission Control Protocol", "Transfer Control Protocol", "Transmission Control Process", "Transfer Control Process"],
+        "answer": 0
+    },
+    {
+        "question": "What is the time complexity of Binary Search?",
+        "options": ["O(n)", "O(n log n)", "O(log n)", "O(n^2)"],
+        "answer": 2
+    },
+    {
+        "question": "What is a primary key in a database?",
+        "options": ["A unique identifier for a record", "A foreign key", "A type of index", "A type of constraint"],
+        "answer": 0
+    },
+    {
+        "question": "What is the main difference between TCP and UDP?",
+        "options": ["TCP is connectionless, UDP is connection-oriented", "TCP is connection-oriented, UDP is connectionless", "TCP is faster than UDP", "There is no difference"],
+        "answer": 1
+    },
+    {
+        "question": "What is the main advantage of a distributed system?",
+        "options": ["Lower cost", "Easier to manage", "Increased capacity for data processing", "All of the above"],
+        "answer": 2
+    },
+    {
+        "question": "What is the main function of the operating system?",
+        "options": ["Manage hardware resources", "Run applications", "Provide security", "All of the above"],
+        "answer": 3
+    },
+        {
+        "question": "What is the full form of HTTP?",
+        "options": ["Hyper Text Transfer Protocol", "Hyper Text Transfer Process", "Hyper Transfer Text Protocol", "High Transfer Text Protocol"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is not a type of DBMS?",
+        "options": ["Relational DBMS", "Network DBMS", "Hierarchical DBMS", "Functional DBMS"],
+        "answer": 3
+    },
+    {
+        "question": "What is the worst case time complexity of linear search algorithm?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is not a type of computer memory?",
+        "options": ["RAM", "ROM", "CPU", "Cache"],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is not a layer in OSI model?",
+        "options": ["Physical Layer", "Data Link Layer", "Transport Layer", "Compression Layer"],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following sorting algorithms is not based on comparison?",
+        "options": ["Bubble Sort", "Quick Sort", "Counting Sort", "Heap Sort"],
+        "answer": 2
+    },
+    {
+        "question": "What is the main purpose of a firewall in a network?",
+        "options": ["Data storage", "Preventing unauthorized access", "Data compression", "Data encryption"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is not a property of Distributed Systems?",
+        "options": ["Concurrency", "Lack of a global clock", "Independent failures", "Centralized data"],
+        "answer": 3
+    },
+    {
+        "question": "What does 'Big O' notation represent in algorithms?",
+        "options": ["Best case scenario", "Average case scenario", "Worst case scenario", "None of the above"],
+        "answer": 2
+    },
+        {
+        "question": "Which data structure would you use to implement a cache?",
+        "options": ["Queue", "Stack", "Hashmap", "Binary Tree"],
+        "answer": 2
+    },
+    {
+        "question": "How would you find the loop in a linked list?",
+        "options": ["By using two pointers", "By reversing the list", "By sorting the list", "By using recursion"],
+        "answer": 0
+    },
+    {
+        "question": "What is the time complexity of inserting an element into a binary search tree?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+        "answer": 2
+    },
+    {
+        "question": "Which algorithm would you use to find the shortest path in a graph?",
+        "options": ["Breadth-First Search", "Depth-First Search", "Dijkstra's Algorithm", "Binary Search"],
+        "answer": 2
+    },
+    {
+        "question": "How would you handle a situation where your database query is running slow?",
+        "options": ["Increase the memory of the database server", "Check for database indexing", "Increase the CPU of the database server", "All of the above"],
+        "answer": 1
+    },
+    {
+        "question": "What is the CAP theorem in the context of distributed systems?",
+        "options": ["It states that it's impossible for a distributed system to simultaneously provide consistency, availability, and partition tolerance", "It states that a distributed system can provide consistency, availability, and partition tolerance all at the same time", "It states that a distributed system should prioritize consistency, availability, and partition tolerance", "None of the above"],
+        "answer": 0
+    },
+    {
+        "question": "What is the difference between a thread and a process?",
+        "options": ["A process can contain multiple threads", "A thread can contain multiple processes", "There is no difference", "A process is part of a thread"],
+        "answer": 0
+    },
+    {
+        "question": "What is the main advantage of using an ORM (Object-Relational Mapping) in database operations?",
+        "options": ["It allows for a more object-oriented approach to database interaction", "It increases the speed of database operations", "It reduces the need for SQL knowledge", "All of the above"],
+        "answer": 0
+    },
+    {
+        "question": "What is the main difference between REST and SOAP?",
+        "options": ["SOAP is a protocol and REST is an architectural style", "REST is a protocol and SOAP is an architectural style", "SOAP and REST are both protocols", "SOAP and REST are both architectural styles"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of load balancing in a distributed system?",
+        "options": ["To distribute workloads across multiple computing resources", "To balance the load on a single server", "To increase the load on the server", "None of the above"],
+        "answer": 0
+    },
+     {
+        "question": "What is the main advantage of using a NoSQL database over a traditional SQL database?",
+        "options": ["Better for structured data", "Better for handling ACID transactions", "Better for handling large volumes of data and scalability", "Better for data consistency"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of using version control systems like Git?",
+        "options": ["To track changes in code over time", "To improve the performance of the code", "To debug the code", "To compile the code"],
+        "answer": 0
+    },
+    {
+        "question": "What is the difference between a stack and a queue?",
+        "options": ["Stack is FIFO, Queue is LIFO", "Stack is LIFO, Queue is FIFO", "There is no difference", "Stack and Queue are the same"],
+        "answer": 1
+    },
+    {
+        "question": "What is the main difference between symmetric and asymmetric encryption?",
+        "options": ["Symmetric uses the same key for encryption and decryption, asymmetric uses different keys", "Asymmetric uses the same key for encryption and decryption, symmetric uses different keys", "Symmetric is more secure than asymmetric", "Asymmetric is faster than symmetric"],
+        "answer": 0
+    },
+    {
+        "question": "What is the main advantage of using cloud computing?",
+        "options": ["Reduced IT costs", "Increased performance", "Scalability", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of a DNS server?",
+        "options": ["To translate domain names into IP addresses", "To provide security for a network", "To manage a database", "To balance the load on a network"],
+        "answer": 0
+    },
+    {
+        "question": "What is the main difference between IPv4 and IPv6?",
+        "options": ["IPv6 addresses are longer than IPv4 addresses", "IPv4 addresses are longer than IPv6 addresses", "IPv4 is more secure than IPv6", "IPv6 is faster than IPv4"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of a CDN (Content Delivery Network)?",
+        "options": ["To increase the speed of database operations", "To distribute content to end-users with high availability and high performance", "To provide security for a network", "To manage a database"],
+        "answer": 1
+    },
+    {
+        "question": "What is a deadlock in the context of operating systems?",
+        "options": ["A situation where a process cannot continue because the resources it needs are being held by other processes", "A situation where a process is completed", "A situation where a process is running", "A situation where a process is waiting"],
+        "answer": 0
+    },
+    {
+        "question": "What is the difference between 'strong' and 'eventual' consistency models in distributed systems?",
+        "options": ["In strong consistency, all nodes see the same data at the same time, while in eventual consistency, this is not necessarily the case", "In eventual consistency, all nodes see the same data at the same time, while in strong consistency, this is not necessarily the case", "There is no difference", "Strong consistency is faster than eventual consistency"],
+        "answer": 0
+    },
+        {
+        "question": "What is the best way to search for an item in a sorted, rotated array?",
+        "options": ["Linear Search", "Binary Search", "Modified Binary Search", "Hashing"],
+        "answer": 2
+    },
+    {
+        "question": "What is the best data structure to use when you need to remove the maximum element frequently?",
+        "options": ["Array", "Binary Search Tree", "Heap", "Hashmap"],
+        "answer": 2
+    },
+    {
+        "question": "How would you detect a cycle in a directed graph?",
+        "options": ["Using Depth-First Search", "Using Breadth-First Search", "Using Dijkstra's Algorithm", "Using Binary Search"],
+        "answer": 0
+    },
+    {
+        "question": "What is the time complexity of finding an item in a balanced binary search tree?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+        "answer": 1
+    },
+    {
+        "question": "How would you handle a situation where your application needs to handle a large amount of read operations?",
+        "options": ["Implement write-through caching", "Implement write-back caching", "Implement read-through caching", "Implement read-back caching"],
+        "answer": 2
+    },
+    {
+        "question": "What is eventual consistency in the context of distributed systems?",
+        "options": ["It guarantees consistency at all times", "It guarantees that, given enough time, all updates will propagate through the system and all the nodes will see the same data", "It guarantees that all updates will be lost eventually", "None of the above"],
+        "answer": 1
+    },
+    {
+        "question": "What is the difference between deadlock and livelock in a multithreaded environment?",
+        "options": ["In a deadlock, threads are unable to progress because each is waiting for resources held by the other. In a livelock, threads are not blocked but are unable to progress because they keep responding to each other", "In a livelock, threads are unable to progress because each is waiting for resources held by the other. In a deadlock, threads are not blocked but are unable to progress because they keep responding to each other", "There is no difference", "A deadlock is part of a livelock"],
+        "answer": 0
+    },
+    {
+        "question": "What is the main advantage of using a NoSQL database over a SQL database?",
+        "options": ["NoSQL databases are more structured", "NoSQL databases are better at handling relational data", "NoSQL databases are better at handling large volumes of structured, semi-structured, and unstructured data", "All of the above"],
+        "answer": 2
+    },
+    {
+        "question": "What is the main difference between a microservice architecture and a monolithic architecture?",
+        "options": ["In a microservice architecture, the application is built as a single unit, while in a monolithic architecture, the application is split into smaller, independent services", "In a monolithic architecture, the application is built as a single unit, while in a microservice architecture, the application is split into smaller, independent services", "Microservice and monolithic architectures are the same", "A monolithic architecture is part of a microservice architecture"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of sharding in a distributed database?",
+        "options": ["To distribute data across multiple machines", "Toduplicate data on multiple machines", "To encrypt data on a single machine", "None of the above"],
+        "answer": 0
+    },
+     {
+        "question": "Which of the following is not an advantage of using cloud computing?",
+        "options": ["Scalability", "Cost efficiency", "Data security", "Dependence on internet connection"],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is not a type of cloud service?",
+        "options": ["Infrastructure as a Service (IaaS)", "Platform as a Service (PaaS)", "Software as a Service (SaaS)", "Internet as a Service (InaaS)"],
+        "answer": 3
+    },
+    {
+        "question": "What is the time complexity of the quicksort algorithm in the worst case?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(2^n)"],
+        "answer": 2
+    },
+    {
+        "question": "What is the main advantage of using serverless architecture?",
+        "options": ["It eliminates the need to manage servers", "It increases the speed of server operations", "It reduces the need for server knowledge", "All of the above"],
+        "answer": 0
+    },
+    {
+        "question": "What is the main difference between a virtual machine and a container?",
+        "options": ["A virtual machine is an emulation of a computer system, while a container is an isolated environment for running an application", "A container is an emulation of a computer system, while a virtual machine is an isolated environment for running an application", "There is no difference", "A virtual machine is a type of container"],
+        "answer": 0
+    },
+    {
+        "question": "What is the main purpose of a load balancer in a cloud environment?",
+        "options": ["To distribute network traffic across multiple servers", "To balance the load on a single server", "To increase the load on the server", "None of the above"],
+        "answer": 0
+    },
+    {
+        "question": "What is the main difference between a public cloud and a private cloud?",
+        "options": ["A public cloud is owned and operated by a third-party cloud service provider, while a private cloud is dedicated to a single organization", "A private cloud is owned and operated by a third-party cloud service provider, while a public cloud is dedicated to a single organization", "There is no difference", "A public cloud is a type of private cloud"],
+        "answer": 0
+    },
+    {
+        "question": "What is the main advantage of using a Content Delivery Network (CDN)?",
+        "options": ["It allows for a more object-oriented approach to content delivery", "It increases the speed of content delivery by caching content closer to the user", "It reduces the need for content knowledge", "All of the above"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of using a VPN?",
+        "options": ["To create a secure connection to another network over the internet", "To create an insecure connection to another network over the internet", "To disconnect from the internet", "None of the above"],
+        "answer": 0
+    }
+]
